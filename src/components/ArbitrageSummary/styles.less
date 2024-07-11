@@ -1,0 +1,44 @@
+@import "~antd/es/style/themes/default.less";
+
+// table:hover,
+// tr:hover,
+// thead:hover {
+//   background: #20293c !important;
+// }
+
+.ant-table-tbody > tr.ant-table-row:hover > td {
+  background: uset;
+}
+
+.arbitrage-summary {
+  .ant-table-row {
+    .col-history {
+      div {
+        display: flex;
+        align-items: center;
+        > span {
+          font-size: 10px;
+          width: 80px;
+        }
+      }
+    }
+    .col-price {
+      div {
+        display: flex;
+        align-items: center;
+        > span {
+          font-size: 10px;
+          width: 50px;
+        }
+      }
+      .delta {
+        font-weight: bold;
+        font-size: 1.1em;
+      }
+    }
+
+    .col-symbol {
+      font-weight: bold;
+    }
+  }
+}

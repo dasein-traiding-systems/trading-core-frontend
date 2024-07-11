@@ -1,0 +1,1235 @@
+[
+  {
+    "symbol": "BCHUSDT",
+    "price": { "spot": 115.3, "futures": 115.3, "delta": 0.0, "delta_perc": 0.0 },
+    "history": [
+      { "tf": "1h", "delta": 0.045, "delta_perc": 0.039, "delta_max": 0.23, "delta_perc_max": 0.195 },
+      { "tf": "24h", "delta": 0.045, "delta_perc": 0.039, "delta_max": 0.23, "delta_perc_max": 0.195 },
+      { "tf": "7d", "delta": 0.045, "delta_perc": 0.039, "delta_max": 0.23, "delta_perc_max": 0.195 }
+    ]
+  },
+  {
+    "symbol": "XRPUSDT",
+    "price": { "spot": 0.3843, "futures": 0.3842, "delta": 0.0, "delta_perc": 0.052 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.037, "delta_max": 0.0, "delta_perc_max": 0.117 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.037, "delta_max": 0.0, "delta_perc_max": 0.117 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.037, "delta_max": 0.0, "delta_perc_max": 0.117 }
+    ]
+  },
+  {
+    "symbol": "EOSUSDT",
+    "price": { "spot": 0.905, "futures": 0.90488055, "delta": 0.001, "delta_perc": 0.087 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.048, "delta_max": 0.002, "delta_perc_max": 0.173 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.048, "delta_max": 0.002, "delta_perc_max": 0.179 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.048, "delta_max": 0.002, "delta_perc_max": 0.179 }
+    ]
+  },
+  {
+    "symbol": "LTCUSDT",
+    "price": { "spot": 77.46, "futures": 77.41255247, "delta": 0.032, "delta_perc": 0.041 },
+    "history": [
+      { "tf": "1h", "delta": 0.033, "delta_perc": 0.043, "delta_max": 0.09, "delta_perc_max": 0.117 },
+      { "tf": "24h", "delta": 0.033, "delta_perc": 0.043, "delta_max": 0.09, "delta_perc_max": 0.117 },
+      { "tf": "7d", "delta": 0.033, "delta_perc": 0.043, "delta_max": 0.09, "delta_perc_max": 0.117 }
+    ]
+  },
+  {
+    "symbol": "TRXUSDT",
+    "price": { "spot": 0.05254, "futures": 0.05250306, "delta": 0.0, "delta_perc": 0.067 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.067, "delta_max": 0.0, "delta_perc_max": 0.148 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.067, "delta_max": 0.0, "delta_perc_max": 0.148 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.067, "delta_max": 0.0, "delta_perc_max": 0.148 }
+    ]
+  },
+  {
+    "symbol": "ETCUSDT",
+    "price": { "spot": 20.17, "futures": 20.156, "delta": 0.015, "delta_perc": 0.074 },
+    "history": [
+      { "tf": "1h", "delta": 0.015, "delta_perc": 0.075, "delta_max": 0.031, "delta_perc_max": 0.154 },
+      { "tf": "24h", "delta": 0.015, "delta_perc": 0.075, "delta_max": 0.031, "delta_perc_max": 0.154 },
+      { "tf": "7d", "delta": 0.015, "delta_perc": 0.075, "delta_max": 0.031, "delta_perc_max": 0.154 }
+    ]
+  },
+  {
+    "symbol": "LINKUSDT",
+    "price": { "spot": 6.77, "futures": 6.76596867, "delta": 0.004, "delta_perc": 0.058 },
+    "history": [
+      { "tf": "1h", "delta": 0.003, "delta_perc": 0.049, "delta_max": 0.01, "delta_perc_max": 0.142 },
+      { "tf": "24h", "delta": 0.003, "delta_perc": 0.049, "delta_max": 0.01, "delta_perc_max": 0.142 },
+      { "tf": "7d", "delta": 0.003, "delta_perc": 0.049, "delta_max": 0.01, "delta_perc_max": 0.142 }
+    ]
+  },
+  {
+    "symbol": "XLMUSDT",
+    "price": { "spot": 0.0882, "futures": 0.0881248, "delta": 0.0, "delta_perc": 0.087 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.059, "delta_max": 0.0, "delta_perc_max": 0.145 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.059, "delta_max": 0.0, "delta_perc_max": 0.145 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.059, "delta_max": 0.0, "delta_perc_max": 0.145 }
+    ]
+  },
+  {
+    "symbol": "ADAUSDT",
+    "price": { "spot": 0.3141, "futures": 0.314, "delta": 0.0, "delta_perc": 0.047 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.044, "delta_max": 0.0, "delta_perc_max": 0.104 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.044, "delta_max": 0.0, "delta_perc_max": 0.104 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.044, "delta_max": 0.0, "delta_perc_max": 0.104 }
+    ]
+  },
+  {
+    "symbol": "XMRUSDT",
+    "price": { "spot": 136.4, "futures": 136.3, "delta": 0.1, "delta_perc": 0.073 },
+    "history": [
+      { "tf": "1h", "delta": 0.098, "delta_perc": 0.072, "delta_max": 0.19, "delta_perc_max": 0.14 },
+      { "tf": "24h", "delta": 0.098, "delta_perc": 0.072, "delta_max": 0.19, "delta_perc_max": 0.14 },
+      { "tf": "7d", "delta": 0.098, "delta_perc": 0.072, "delta_max": 0.19, "delta_perc_max": 0.14 }
+    ]
+  },
+  {
+    "symbol": "DASHUSDT",
+    "price": { "spot": 42.85, "futures": 42.83748632, "delta": 0.018, "delta_perc": 0.041 },
+    "history": [
+      { "tf": "1h", "delta": 0.017, "delta_perc": 0.04, "delta_max": 0.045, "delta_perc_max": 0.105 },
+      { "tf": "24h", "delta": 0.017, "delta_perc": 0.04, "delta_max": 0.05, "delta_perc_max": 0.118 },
+      { "tf": "7d", "delta": 0.017, "delta_perc": 0.04, "delta_max": 0.05, "delta_perc_max": 0.118 }
+    ]
+  },
+  {
+    "symbol": "ZECUSDT",
+    "price": { "spot": 42.7, "futures": 42.68687884, "delta": 0.013, "delta_perc": 0.031 },
+    "history": [
+      { "tf": "1h", "delta": -0.004, "delta_perc": -0.008, "delta_max": 0.082, "delta_perc_max": 0.191 },
+      { "tf": "24h", "delta": -0.004, "delta_perc": -0.008, "delta_max": 0.082, "delta_perc_max": 0.191 },
+      { "tf": "7d", "delta": -0.004, "delta_perc": -0.008, "delta_max": 0.082, "delta_perc_max": 0.191 }
+    ]
+  },
+  {
+    "symbol": "XTZUSDT",
+    "price": { "spot": 0.997, "futures": 0.99686809, "delta": 0.0, "delta_perc": 0.014 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.013, "delta_max": 0.002, "delta_perc_max": 0.171 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.013, "delta_max": 0.002, "delta_perc_max": 0.171 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.013, "delta_max": 0.002, "delta_perc_max": 0.171 }
+    ]
+  },
+  {
+    "symbol": "BNBUSDT",
+    "price": { "spot": 297.6, "futures": 297.15, "delta": 0.54, "delta_perc": 0.182 },
+    "history": [
+      { "tf": "1h", "delta": 0.488, "delta_perc": 0.164, "delta_max": 0.73, "delta_perc_max": 0.246 },
+      { "tf": "24h", "delta": 0.488, "delta_perc": 0.164, "delta_max": 0.73, "delta_perc_max": 0.246 },
+      { "tf": "7d", "delta": 0.488, "delta_perc": 0.164, "delta_max": 0.73, "delta_perc_max": 0.246 }
+    ]
+  },
+  {
+    "symbol": "ATOMUSDT",
+    "price": { "spot": 9.993, "futures": 9.98680917, "delta": 0.005, "delta_perc": 0.048 },
+    "history": [
+      { "tf": "1h", "delta": 0.006, "delta_perc": 0.055, "delta_max": 0.012, "delta_perc_max": 0.122 },
+      { "tf": "24h", "delta": 0.006, "delta_perc": 0.055, "delta_max": 0.012, "delta_perc_max": 0.122 },
+      { "tf": "7d", "delta": 0.006, "delta_perc": 0.055, "delta_max": 0.012, "delta_perc_max": 0.122 }
+    ]
+  },
+  {
+    "symbol": "ONTUSDT",
+    "price": { "spot": 0.1804, "futures": 0.1802, "delta": 0.0, "delta_perc": 0.152 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.116, "delta_max": 0.0, "delta_perc_max": 0.153 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.116, "delta_max": 0.0, "delta_perc_max": 0.153 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.116, "delta_max": 0.0, "delta_perc_max": 0.153 }
+    ]
+  },
+  {
+    "symbol": "IOTAUSDT",
+    "price": { "spot": 0.2139, "futures": 0.2137, "delta": 0.0, "delta_perc": 0.047 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.059, "delta_max": 0.0, "delta_perc_max": 0.14 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.059, "delta_max": 0.0, "delta_perc_max": 0.14 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.059, "delta_max": 0.0, "delta_perc_max": 0.14 }
+    ]
+  },
+  {
+    "symbol": "BATUSDT",
+    "price": { "spot": 0.2261, "futures": 0.2259, "delta": 0.0, "delta_perc": 0.108 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.08, "delta_max": 0.0, "delta_perc_max": 0.179 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.08, "delta_max": 0.0, "delta_perc_max": 0.179 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.08, "delta_max": 0.0, "delta_perc_max": 0.179 }
+    ]
+  },
+  {
+    "symbol": "VETUSDT",
+    "price": { "spot": 0.01881, "futures": 0.0188, "delta": 0.0, "delta_perc": 0.053 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.079, "delta_max": 0.0, "delta_perc_max": 0.165 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.079, "delta_max": 0.0, "delta_perc_max": 0.165 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.079, "delta_max": 0.0, "delta_perc_max": 0.165 }
+    ]
+  },
+  {
+    "symbol": "NEOUSDT",
+    "price": { "spot": 6.88, "futures": 6.88012227, "delta": -0.0, "delta_perc": -0.001 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.001, "delta_max": 0.015, "delta_perc_max": 0.218 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.001, "delta_max": 0.015, "delta_perc_max": 0.218 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.001, "delta_max": 0.015, "delta_perc_max": 0.218 }
+    ]
+  },
+  {
+    "symbol": "QTUMUSDT",
+    "price": { "spot": 2.152, "futures": 2.151, "delta": 0.001, "delta_perc": 0.046 },
+    "history": [
+      { "tf": "1h", "delta": 0.001, "delta_perc": 0.067, "delta_max": 0.004, "delta_perc_max": 0.181 },
+      { "tf": "24h", "delta": 0.001, "delta_perc": 0.067, "delta_max": 0.004, "delta_perc_max": 0.181 },
+      { "tf": "7d", "delta": 0.001, "delta_perc": 0.067, "delta_max": 0.004, "delta_perc_max": 0.181 }
+    ]
+  },
+  {
+    "symbol": "IOSTUSDT",
+    "price": { "spot": 0.00868, "futures": 0.008675, "delta": 0.0, "delta_perc": 0.058 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.064, "delta_max": 0.0, "delta_perc_max": 0.203 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.064, "delta_max": 0.0, "delta_perc_max": 0.214 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.064, "delta_max": 0.0, "delta_perc_max": 0.214 }
+    ]
+  },
+  {
+    "symbol": "THETAUSDT",
+    "price": { "spot": 0.887, "futures": 0.886, "delta": 0.001, "delta_perc": 0.102 },
+    "history": [
+      { "tf": "1h", "delta": 0.001, "delta_perc": 0.088, "delta_max": 0.002, "delta_perc_max": 0.193 },
+      { "tf": "24h", "delta": 0.001, "delta_perc": 0.088, "delta_max": 0.002, "delta_perc_max": 0.193 },
+      { "tf": "7d", "delta": 0.001, "delta_perc": 0.088, "delta_max": 0.002, "delta_perc_max": 0.193 }
+    ]
+  },
+  {
+    "symbol": "ALGOUSDT",
+    "price": { "spot": 0.2403, "futures": 0.24, "delta": 0.0, "delta_perc": 0.125 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.116, "delta_max": 0.0, "delta_perc_max": 0.197 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.116, "delta_max": 0.0, "delta_perc_max": 0.197 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.116, "delta_max": 0.0, "delta_perc_max": 0.197 }
+    ]
+  },
+  {
+    "symbol": "ZILUSDT",
+    "price": { "spot": 0.02304, "futures": 0.02305, "delta": 0.0, "delta_perc": 0.0 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.024, "delta_max": 0.0, "delta_perc_max": 0.174 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.024, "delta_max": 0.0, "delta_perc_max": 0.174 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.024, "delta_max": 0.0, "delta_perc_max": 0.174 }
+    ]
+  },
+  {
+    "symbol": "KNCUSDT",
+    "price": { "spot": 0.608, "futures": 0.60843236, "delta": -0.0, "delta_perc": -0.071 },
+    "history": [
+      { "tf": "1h", "delta": -0.0, "delta_perc": -0.068, "delta_max": 0.001, "delta_perc_max": 0.214 },
+      { "tf": "24h", "delta": -0.0, "delta_perc": -0.068, "delta_max": 0.001, "delta_perc_max": 0.214 },
+      { "tf": "7d", "delta": -0.0, "delta_perc": -0.068, "delta_max": 0.001, "delta_perc_max": 0.214 }
+    ]
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "price": { "spot": 0.2036, "futures": 0.20359723, "delta": 0.0, "delta_perc": 0.002 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.01, "delta_max": 0.001, "delta_perc_max": 0.378 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.01, "delta_max": 0.001, "delta_perc_max": 0.378 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.01, "delta_max": 0.001, "delta_perc_max": 0.378 }
+    ]
+  },
+  {
+    "symbol": "COMPUSDT",
+    "price": { "spot": 37.83, "futures": 37.81, "delta": 0.02, "delta_perc": 0.053 },
+    "history": [
+      { "tf": "1h", "delta": 0.017, "delta_perc": 0.044, "delta_max": 0.05, "delta_perc_max": 0.133 },
+      { "tf": "24h", "delta": 0.017, "delta_perc": 0.044, "delta_max": 0.05, "delta_perc_max": 0.133 },
+      { "tf": "7d", "delta": 0.017, "delta_perc": 0.044, "delta_max": 0.05, "delta_perc_max": 0.133 }
+    ]
+  },
+  {
+    "symbol": "OMGUSDT",
+    "price": { "spot": 1.162, "futures": 1.161, "delta": 0.001, "delta_perc": 0.086 },
+    "history": [
+      { "tf": "1h", "delta": 0.001, "delta_perc": 0.067, "delta_max": 0.002, "delta_perc_max": 0.173 },
+      { "tf": "24h", "delta": 0.001, "delta_perc": 0.067, "delta_max": 0.002, "delta_perc_max": 0.173 },
+      { "tf": "7d", "delta": 0.001, "delta_perc": 0.067, "delta_max": 0.002, "delta_perc_max": 0.173 }
+    ]
+  },
+  {
+    "symbol": "DOGEUSDT",
+    "price": { "spot": 0.08115, "futures": 0.0811231, "delta": 0.0, "delta_perc": 0.041 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.045, "delta_max": 0.0, "delta_perc_max": 0.107 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.045, "delta_max": 0.0, "delta_perc_max": 0.107 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.045, "delta_max": 0.0, "delta_perc_max": 0.107 }
+    ]
+  },
+  {
+    "symbol": "SXPUSDT",
+    "price": { "spot": 0.2339, "futures": 0.23368268, "delta": 0.0, "delta_perc": 0.095 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.102, "delta_max": 0.001, "delta_perc_max": 0.321 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.102, "delta_max": 0.001, "delta_perc_max": 0.321 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.102, "delta_max": 0.001, "delta_perc_max": 0.321 }
+    ]
+  },
+  {
+    "symbol": "KAVAUSDT",
+    "price": { "spot": 0.923, "futures": 0.9223, "delta": 0.001, "delta_perc": 0.076 },
+    "history": [
+      { "tf": "1h", "delta": 0.001, "delta_perc": 0.083, "delta_max": 0.004, "delta_perc_max": 0.425 },
+      { "tf": "24h", "delta": 0.001, "delta_perc": 0.083, "delta_max": 0.004, "delta_perc_max": 0.425 },
+      { "tf": "7d", "delta": 0.001, "delta_perc": 0.083, "delta_max": 0.004, "delta_perc_max": 0.425 }
+    ]
+  },
+  {
+    "symbol": "BANDUSDT",
+    "price": { "spot": 1.771, "futures": 1.76949945, "delta": 0.0, "delta_perc": 0.028 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.027, "delta_max": 0.013, "delta_perc_max": 0.722 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.027, "delta_max": 0.013, "delta_perc_max": 0.722 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.027, "delta_max": 0.013, "delta_perc_max": 0.722 }
+    ]
+  },
+  {
+    "symbol": "RLCUSDT",
+    "price": { "spot": 1.203, "futures": 1.20175676, "delta": 0.001, "delta_perc": 0.087 },
+    "history": [
+      { "tf": "1h", "delta": 0.001, "delta_perc": 0.094, "delta_max": 0.003, "delta_perc_max": 0.269 },
+      { "tf": "24h", "delta": 0.001, "delta_perc": 0.094, "delta_max": 0.003, "delta_perc_max": 0.269 },
+      { "tf": "7d", "delta": 0.001, "delta_perc": 0.094, "delta_max": 0.003, "delta_perc_max": 0.269 }
+    ]
+  },
+  {
+    "symbol": "WAVESUSDT",
+    "price": { "spot": 2.201, "futures": 2.201, "delta": 0.0, "delta_perc": 0.0 },
+    "history": [
+      { "tf": "1h", "delta": 0.001, "delta_perc": 0.033, "delta_max": 0.003, "delta_perc_max": 0.123 },
+      { "tf": "24h", "delta": 0.001, "delta_perc": 0.033, "delta_max": 0.003, "delta_perc_max": 0.123 },
+      { "tf": "7d", "delta": 0.001, "delta_perc": 0.033, "delta_max": 0.003, "delta_perc_max": 0.123 }
+    ]
+  },
+  {
+    "symbol": "MKRUSDT",
+    "price": { "spot": 659.0, "futures": 658.4286061, "delta": 0.562, "delta_perc": 0.085 },
+    "history": [
+      { "tf": "1h", "delta": 0.493, "delta_perc": 0.075, "delta_max": 1.195, "delta_perc_max": 0.181 },
+      { "tf": "24h", "delta": 0.493, "delta_perc": 0.075, "delta_max": 1.195, "delta_perc_max": 0.181 },
+      { "tf": "7d", "delta": 0.493, "delta_perc": 0.075, "delta_max": 1.195, "delta_perc_max": 0.181 }
+    ]
+  },
+  {
+    "symbol": "SNXUSDT",
+    "price": { "spot": 1.733, "futures": 1.731, "delta": 0.002, "delta_perc": 0.116 },
+    "history": [
+      { "tf": "1h", "delta": 0.002, "delta_perc": 0.125, "delta_max": 0.004, "delta_perc_max": 0.231 },
+      { "tf": "24h", "delta": 0.002, "delta_perc": 0.125, "delta_max": 0.005, "delta_perc_max": 0.307 },
+      { "tf": "7d", "delta": 0.002, "delta_perc": 0.125, "delta_max": 0.005, "delta_perc_max": 0.307 }
+    ]
+  },
+  {
+    "symbol": "DOTUSDT",
+    "price": { "spot": 5.38, "futures": 5.38177889, "delta": -0.002, "delta_perc": -0.029 },
+    "history": [
+      { "tf": "1h", "delta": -0.001, "delta_perc": -0.014, "delta_max": 0.012, "delta_perc_max": 0.22 },
+      { "tf": "24h", "delta": -0.001, "delta_perc": -0.014, "delta_max": 0.016, "delta_perc_max": 0.299 },
+      { "tf": "7d", "delta": -0.001, "delta_perc": -0.014, "delta_max": 0.016, "delta_perc_max": 0.299 }
+    ]
+  },
+  {
+    "symbol": "YFIUSDT",
+    "price": { "spot": 6114.0, "futures": 6110.04319708, "delta": 4.0, "delta_perc": 0.065 },
+    "history": [
+      { "tf": "1h", "delta": 4.312, "delta_perc": 0.071, "delta_max": 8.535, "delta_perc_max": 0.14 },
+      { "tf": "24h", "delta": 4.312, "delta_perc": 0.071, "delta_max": 8.535, "delta_perc_max": 0.14 },
+      { "tf": "7d", "delta": 4.312, "delta_perc": 0.071, "delta_max": 8.535, "delta_perc_max": 0.14 }
+    ]
+  },
+  {
+    "symbol": "BALUSDT",
+    "price": { "spot": 5.503, "futures": 5.5009411, "delta": 0.002, "delta_perc": 0.037 },
+    "history": [
+      { "tf": "1h", "delta": 0.001, "delta_perc": 0.021, "delta_max": 0.009, "delta_perc_max": 0.159 },
+      { "tf": "24h", "delta": 0.001, "delta_perc": 0.021, "delta_max": 0.009, "delta_perc_max": 0.159 },
+      { "tf": "7d", "delta": 0.001, "delta_perc": 0.021, "delta_max": 0.009, "delta_perc_max": 0.159 }
+    ]
+  },
+  {
+    "symbol": "CRVUSDT",
+    "price": { "spot": 0.698, "futures": 0.697, "delta": 0.002, "delta_perc": 0.284 },
+    "history": [
+      { "tf": "1h", "delta": 0.002, "delta_perc": 0.286, "delta_max": 0.004, "delta_perc_max": 0.589 },
+      { "tf": "24h", "delta": 0.002, "delta_perc": 0.286, "delta_max": 0.004, "delta_perc_max": 0.589 },
+      { "tf": "7d", "delta": 0.002, "delta_perc": 0.286, "delta_max": 0.004, "delta_perc_max": 0.589 }
+    ]
+  },
+  {
+    "symbol": "TRBUSDT",
+    "price": { "spot": 11.29, "futures": 11.29, "delta": 0.0, "delta_perc": 0.0 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.002, "delta_max": 0.019, "delta_perc_max": 0.169 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.002, "delta_max": 0.019, "delta_perc_max": 0.169 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.002, "delta_max": 0.019, "delta_perc_max": 0.169 }
+    ]
+  },
+  {
+    "symbol": "RUNEUSDT",
+    "price": { "spot": 1.18, "futures": 1.179, "delta": 0.001, "delta_perc": 0.085 },
+    "history": [
+      { "tf": "1h", "delta": 0.001, "delta_perc": 0.056, "delta_max": 0.002, "delta_perc_max": 0.198 },
+      { "tf": "24h", "delta": 0.001, "delta_perc": 0.056, "delta_max": 0.002, "delta_perc_max": 0.198 },
+      { "tf": "7d", "delta": 0.001, "delta_perc": 0.056, "delta_max": 0.002, "delta_perc_max": 0.198 }
+    ]
+  },
+  {
+    "symbol": "SUSHIUSDT",
+    "price": { "spot": 1.204, "futures": 1.204, "delta": 0.0, "delta_perc": 0.0 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.037, "delta_max": 0.002, "delta_perc_max": 0.166 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.037, "delta_max": 0.002, "delta_perc_max": 0.166 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.037, "delta_max": 0.002, "delta_perc_max": 0.166 }
+    ]
+  },
+  {
+    "symbol": "EGLDUSDT",
+    "price": { "spot": 42.41, "futures": 42.38917977, "delta": 0.01, "delta_perc": 0.024 },
+    "history": [
+      { "tf": "1h", "delta": 0.016, "delta_perc": 0.037, "delta_max": 0.054, "delta_perc_max": 0.129 },
+      { "tf": "24h", "delta": 0.016, "delta_perc": 0.037, "delta_max": 0.054, "delta_perc_max": 0.129 },
+      { "tf": "7d", "delta": 0.016, "delta_perc": 0.037, "delta_max": 0.054, "delta_perc_max": 0.129 }
+    ]
+  },
+  {
+    "symbol": "SOLUSDT",
+    "price": { "spot": 14.19, "futures": 14.15394018, "delta": 0.037, "delta_perc": 0.262 },
+    "history": [
+      { "tf": "1h", "delta": 0.036, "delta_perc": 0.252, "delta_max": 0.081, "delta_perc_max": 0.563 },
+      { "tf": "24h", "delta": 0.036, "delta_perc": 0.252, "delta_max": 0.081, "delta_perc_max": 0.563 },
+      { "tf": "7d", "delta": 0.036, "delta_perc": 0.252, "delta_max": 0.081, "delta_perc_max": 0.563 }
+    ]
+  },
+  {
+    "symbol": "ICXUSDT",
+    "price": { "spot": 0.1723, "futures": 0.17222658, "delta": 0.0, "delta_perc": 0.044 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.036, "delta_max": 0.001, "delta_perc_max": 0.312 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.036, "delta_max": 0.001, "delta_perc_max": 0.564 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.036, "delta_max": 0.001, "delta_perc_max": 0.564 }
+    ]
+  },
+  {
+    "symbol": "STORJUSDT",
+    "price": { "spot": 0.343, "futures": 0.3428, "delta": 0.0, "delta_perc": 0.058 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.051, "delta_max": 0.0, "delta_perc_max": 0.127 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.051, "delta_max": 0.0, "delta_perc_max": 0.127 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.051, "delta_max": 0.0, "delta_perc_max": 0.127 }
+    ]
+  },
+  {
+    "symbol": "BLZUSDT",
+    "price": { "spot": 0.061, "futures": 0.06094775, "delta": 0.0, "delta_perc": 0.085 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.114, "delta_max": 0.0, "delta_perc_max": 0.282 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.114, "delta_max": 0.0, "delta_perc_max": 0.282 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.114, "delta_max": 0.0, "delta_perc_max": 0.282 }
+    ]
+  },
+  {
+    "symbol": "UNIUSDT",
+    "price": { "spot": 5.43, "futures": 5.42837906, "delta": 0.001, "delta_perc": 0.018 },
+    "history": [
+      { "tf": "1h", "delta": -0.0, "delta_perc": -0.008, "delta_max": 0.013, "delta_perc_max": 0.24 },
+      { "tf": "24h", "delta": -0.0, "delta_perc": -0.008, "delta_max": 0.013, "delta_perc_max": 0.24 },
+      { "tf": "7d", "delta": -0.0, "delta_perc": -0.008, "delta_max": 0.013, "delta_perc_max": 0.24 }
+    ]
+  },
+  {
+    "symbol": "AVAXUSDT",
+    "price": { "spot": 12.85, "futures": 12.846, "delta": 0.002, "delta_perc": 0.016 },
+    "history": [
+      { "tf": "1h", "delta": 0.007, "delta_perc": 0.055, "delta_max": 0.018, "delta_perc_max": 0.139 },
+      { "tf": "24h", "delta": 0.007, "delta_perc": 0.055, "delta_max": 0.019, "delta_perc_max": 0.149 },
+      { "tf": "7d", "delta": 0.007, "delta_perc": 0.055, "delta_max": 0.019, "delta_perc_max": 0.149 }
+    ]
+  },
+  {
+    "symbol": "FTMUSDT",
+    "price": { "spot": 0.1828, "futures": 0.18271061, "delta": 0.0, "delta_perc": 0.05 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.042, "delta_max": 0.0, "delta_perc_max": 0.144 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.042, "delta_max": 0.0, "delta_perc_max": 0.144 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.042, "delta_max": 0.0, "delta_perc_max": 0.144 }
+    ]
+  },
+  {
+    "symbol": "HNTUSDT",
+    "price": { "spot": 0.0, "futures": 2.42173522, "delta": 0.0, "delta_perc": 0.0 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.0, "delta_max": 0.0, "delta_perc_max": 0.0 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.0, "delta_max": 0.0, "delta_perc_max": 0.0 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.0, "delta_max": 0.0, "delta_perc_max": 0.0 }
+    ]
+  },
+  {
+    "symbol": "ENJUSDT",
+    "price": { "spot": 0.301, "futures": 0.30084462, "delta": 0.0, "delta_perc": 0.053 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.047, "delta_max": 0.001, "delta_perc_max": 0.174 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.047, "delta_max": 0.001, "delta_perc_max": 0.174 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.047, "delta_max": 0.001, "delta_perc_max": 0.174 }
+    ]
+  },
+  {
+    "symbol": "FLMUSDT",
+    "price": { "spot": 0.0819, "futures": 0.08182877, "delta": 0.0, "delta_perc": 0.11 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.104, "delta_max": 0.0, "delta_perc_max": 0.348 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.104, "delta_max": 0.0, "delta_perc_max": 0.348 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.104, "delta_max": 0.0, "delta_perc_max": 0.348 }
+    ]
+  },
+  {
+    "symbol": "TOMOUSDT",
+    "price": { "spot": 0.3056, "futures": 0.3056, "delta": 0.0, "delta_perc": 0.0 },
+    "history": [
+      { "tf": "1h", "delta": -0.0, "delta_perc": -0.008, "delta_max": 0.001, "delta_perc_max": 0.378 },
+      { "tf": "24h", "delta": -0.0, "delta_perc": -0.008, "delta_max": 0.001, "delta_perc_max": 0.378 },
+      { "tf": "7d", "delta": -0.0, "delta_perc": -0.008, "delta_max": 0.001, "delta_perc_max": 0.378 }
+    ]
+  },
+  {
+    "symbol": "RENUSDT",
+    "price": { "spot": 0.089674, "futures": 0.08944799, "delta": 0.0, "delta_perc": 0.356 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.412, "delta_max": 0.002, "delta_perc_max": 2.068 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.412, "delta_max": 0.002, "delta_perc_max": 2.068 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.412, "delta_max": 0.002, "delta_perc_max": 2.068 }
+    ]
+  },
+  {
+    "symbol": "KSMUSDT",
+    "price": { "spot": 26.12, "futures": 26.10089151, "delta": 0.019, "delta_perc": 0.074 },
+    "history": [
+      { "tf": "1h", "delta": 0.016, "delta_perc": 0.06, "delta_max": 0.033, "delta_perc_max": 0.129 },
+      { "tf": "24h", "delta": 0.016, "delta_perc": 0.06, "delta_max": 0.033, "delta_perc_max": 0.129 },
+      { "tf": "7d", "delta": 0.016, "delta_perc": 0.06, "delta_max": 0.033, "delta_perc_max": 0.129 }
+    ]
+  },
+  {
+    "symbol": "NEARUSDT",
+    "price": { "spot": 1.663, "futures": 1.66285906, "delta": 0.0, "delta_perc": 0.012 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.005, "delta_max": 0.002, "delta_perc_max": 0.119 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.005, "delta_max": 0.002, "delta_perc_max": 0.119 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.005, "delta_max": 0.002, "delta_perc_max": 0.119 }
+    ]
+  },
+  {
+    "symbol": "AAVEUSDT",
+    "price": { "spot": 58.3, "futures": 58.29, "delta": 0.01, "delta_perc": 0.017 },
+    "history": [
+      { "tf": "1h", "delta": 0.006, "delta_perc": 0.01, "delta_max": 0.13, "delta_perc_max": 0.224 },
+      { "tf": "24h", "delta": 0.006, "delta_perc": 0.01, "delta_max": 0.13, "delta_perc_max": 0.224 },
+      { "tf": "7d", "delta": 0.006, "delta_perc": 0.01, "delta_max": 0.13, "delta_perc_max": 0.224 }
+    ]
+  },
+  {
+    "symbol": "FILUSDT",
+    "price": { "spot": 4.38, "futures": 4.38832581, "delta": 0.002, "delta_perc": 0.048 },
+    "history": [
+      { "tf": "1h", "delta": -0.001, "delta_perc": -0.013, "delta_max": 0.008, "delta_perc_max": 0.193 },
+      { "tf": "24h", "delta": -0.001, "delta_perc": -0.013, "delta_max": 0.008, "delta_perc_max": 0.193 },
+      { "tf": "7d", "delta": -0.001, "delta_perc": -0.013, "delta_max": 0.008, "delta_perc_max": 0.193 }
+    ]
+  },
+  {
+    "symbol": "RSRUSDT",
+    "price": { "spot": 0.00397, "futures": 0.003968, "delta": 0.0, "delta_perc": 0.02 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.057, "delta_max": 0.0, "delta_perc_max": 0.487 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.057, "delta_max": 0.0, "delta_perc_max": 0.487 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.057, "delta_max": 0.0, "delta_perc_max": 0.487 }
+    ]
+  },
+  {
+    "symbol": "LRCUSDT",
+    "price": { "spot": 0.2401, "futures": 0.23993201, "delta": 0.0, "delta_perc": 0.07 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.06, "delta_max": 0.0, "delta_perc_max": 0.17 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.06, "delta_max": 0.0, "delta_perc_max": 0.17 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.06, "delta_max": 0.0, "delta_perc_max": 0.17 }
+    ]
+  },
+  {
+    "symbol": "MATICUSDT",
+    "price": { "spot": 0.8505, "futures": 0.8502, "delta": 0.0, "delta_perc": 0.047 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.045, "delta_max": 0.001, "delta_perc_max": 0.095 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.045, "delta_max": 0.001, "delta_perc_max": 0.095 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.045, "delta_max": 0.001, "delta_perc_max": 0.095 }
+    ]
+  },
+  {
+    "symbol": "OCEANUSDT",
+    "price": { "spot": 0.128, "futures": 0.12800265, "delta": -0.0, "delta_perc": -0.0 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.039, "delta_max": 0.0, "delta_perc_max": 0.25 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.039, "delta_max": 0.0, "delta_perc_max": 0.25 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.039, "delta_max": 0.0, "delta_perc_max": 0.25 }
+    ]
+  },
+  {
+    "symbol": "CVCUSDT",
+    "price": { "spot": 0.0996, "futures": 0.09950811, "delta": 0.0, "delta_perc": 0.093 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.091, "delta_max": 0.0, "delta_perc_max": 0.257 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.091, "delta_max": 0.0, "delta_perc_max": 0.257 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.091, "delta_max": 0.0, "delta_perc_max": 0.257 }
+    ]
+  },
+  {
+    "symbol": "BELUSDT",
+    "price": { "spot": 0.434, "futures": 0.43418392, "delta": -0.0, "delta_perc": -0.037 },
+    "history": [
+      { "tf": "1h", "delta": -0.0, "delta_perc": -0.01, "delta_max": 0.001, "delta_perc_max": 0.264 },
+      { "tf": "24h", "delta": -0.0, "delta_perc": -0.01, "delta_max": 0.001, "delta_perc_max": 0.264 },
+      { "tf": "7d", "delta": -0.0, "delta_perc": -0.01, "delta_max": 0.001, "delta_perc_max": 0.264 }
+    ]
+  },
+  {
+    "symbol": "CTKUSDT",
+    "price": { "spot": 0.748, "futures": 0.74780461, "delta": 0.0, "delta_perc": 0.028 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.041, "delta_max": 0.002, "delta_perc_max": 0.215 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.041, "delta_max": 0.002, "delta_perc_max": 0.215 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.041, "delta_max": 0.002, "delta_perc_max": 0.215 }
+    ]
+  },
+  {
+    "symbol": "AXSUSDT",
+    "price": { "spot": 6.71, "futures": 6.70448862, "delta": 0.005, "delta_perc": 0.075 },
+    "history": [
+      { "tf": "1h", "delta": 0.003, "delta_perc": 0.052, "delta_max": 0.016, "delta_perc_max": 0.23 },
+      { "tf": "24h", "delta": 0.003, "delta_perc": 0.052, "delta_max": 0.016, "delta_perc_max": 0.23 },
+      { "tf": "7d", "delta": 0.003, "delta_perc": 0.052, "delta_max": 0.016, "delta_perc_max": 0.23 }
+    ]
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "price": { "spot": 0.0891, "futures": 0.08913935, "delta": -0.0, "delta_perc": -0.041 },
+    "history": [
+      { "tf": "1h", "delta": -0.0, "delta_perc": -0.023, "delta_max": 0.0, "delta_perc_max": 0.241 },
+      { "tf": "24h", "delta": -0.0, "delta_perc": -0.023, "delta_max": 0.0, "delta_perc_max": 0.241 },
+      { "tf": "7d", "delta": -0.0, "delta_perc": -0.023, "delta_max": 0.0, "delta_perc_max": 0.241 }
+    ]
+  },
+  {
+    "symbol": "ZENUSDT",
+    "price": { "spot": 9.4, "futures": 9.396, "delta": 0.004, "delta_perc": 0.043 },
+    "history": [
+      { "tf": "1h", "delta": 0.004, "delta_perc": 0.045, "delta_max": 0.019, "delta_perc_max": 0.208 },
+      { "tf": "24h", "delta": 0.004, "delta_perc": 0.045, "delta_max": 0.019, "delta_perc_max": 0.208 },
+      { "tf": "7d", "delta": 0.004, "delta_perc": 0.045, "delta_max": 0.019, "delta_perc_max": 0.208 }
+    ]
+  },
+  {
+    "symbol": "SKLUSDT",
+    "price": { "spot": 0.0262, "futures": 0.02619583, "delta": -0.0, "delta_perc": -0.038 },
+    "history": [
+      { "tf": "1h", "delta": -0.0, "delta_perc": -0.021, "delta_max": 0.0, "delta_perc_max": 0.212 },
+      { "tf": "24h", "delta": -0.0, "delta_perc": -0.021, "delta_max": 0.0, "delta_perc_max": 0.212 },
+      { "tf": "7d", "delta": -0.0, "delta_perc": -0.021, "delta_max": 0.0, "delta_perc_max": 0.212 }
+    ]
+  },
+  {
+    "symbol": "GRTUSDT",
+    "price": { "spot": 0.06, "futures": 0.05994, "delta": 0.0, "delta_perc": 0.134 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.097, "delta_max": 0.0, "delta_perc_max": 0.398 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.097, "delta_max": 0.0, "delta_perc_max": 0.398 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.097, "delta_max": 0.0, "delta_perc_max": 0.398 }
+    ]
+  },
+  {
+    "symbol": "1INCHUSDT",
+    "price": { "spot": 0.527, "futures": 0.52717823, "delta": -0.0, "delta_perc": -0.033 },
+    "history": [
+      { "tf": "1h", "delta": -0.0, "delta_perc": -0.022, "delta_max": 0.001, "delta_perc_max": 0.261 },
+      { "tf": "24h", "delta": -0.0, "delta_perc": -0.022, "delta_max": 0.001, "delta_perc_max": 0.261 },
+      { "tf": "7d", "delta": -0.0, "delta_perc": -0.022, "delta_max": 0.001, "delta_perc_max": 0.261 }
+    ]
+  },
+  {
+    "symbol": "CHZUSDT",
+    "price": { "spot": 0.1774, "futures": 0.17718224, "delta": 0.0, "delta_perc": 0.113 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.119, "delta_max": 0.0, "delta_perc_max": 0.222 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.119, "delta_max": 0.0, "delta_perc_max": 0.222 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.119, "delta_max": 0.0, "delta_perc_max": 0.222 }
+    ]
+  },
+  {
+    "symbol": "SANDUSDT",
+    "price": { "spot": 0.5578, "futures": 0.5574073, "delta": 0.0, "delta_perc": 0.073 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.071, "delta_max": 0.001, "delta_perc_max": 0.102 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.071, "delta_max": 0.001, "delta_perc_max": 0.102 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.071, "delta_max": 0.001, "delta_perc_max": 0.102 }
+    ]
+  },
+  {
+    "symbol": "ANKRUSDT",
+    "price": { "spot": 0.02322, "futures": 0.02321371, "delta": 0.0, "delta_perc": 0.043 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.042, "delta_max": 0.0, "delta_perc_max": 0.261 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.042, "delta_max": 0.0, "delta_perc_max": 0.261 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.042, "delta_max": 0.0, "delta_perc_max": 0.261 }
+    ]
+  },
+  {
+    "symbol": "LITUSDT",
+    "price": { "spot": 0.706, "futures": 0.70548321, "delta": 0.001, "delta_perc": 0.072 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.046, "delta_max": 0.002, "delta_perc_max": 0.287 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.046, "delta_max": 0.002, "delta_perc_max": 0.287 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.046, "delta_max": 0.002, "delta_perc_max": 0.287 }
+    ]
+  },
+  {
+    "symbol": "UNFIUSDT",
+    "price": { "spot": 4.452, "futures": 4.44858934, "delta": 0.003, "delta_perc": 0.067 },
+    "history": [
+      { "tf": "1h", "delta": 0.003, "delta_perc": 0.057, "delta_max": 0.012, "delta_perc_max": 0.277 },
+      { "tf": "24h", "delta": 0.003, "delta_perc": 0.057, "delta_max": 0.012, "delta_perc_max": 0.277 },
+      { "tf": "7d", "delta": 0.003, "delta_perc": 0.057, "delta_max": 0.012, "delta_perc_max": 0.277 }
+    ]
+  },
+  {
+    "symbol": "REEFUSDT",
+    "price": { "spot": 0.002995, "futures": 0.00299263, "delta": 0.0, "delta_perc": 0.067 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.05, "delta_max": 0.0, "delta_perc_max": 0.18 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.05, "delta_max": 0.0, "delta_perc_max": 0.18 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.05, "delta_max": 0.0, "delta_perc_max": 0.18 }
+    ]
+  },
+  {
+    "symbol": "RVNUSDT",
+    "price": { "spot": 0.02291, "futures": 0.02291069, "delta": -0.0, "delta_perc": -0.002 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.038, "delta_max": 0.0, "delta_perc_max": 0.258 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.038, "delta_max": 0.0, "delta_perc_max": 0.552 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.038, "delta_max": 0.0, "delta_perc_max": 0.552 }
+    ]
+  },
+  {
+    "symbol": "SFPUSDT",
+    "price": { "spot": 0.4989, "futures": 0.4988, "delta": -0.0, "delta_perc": -0.008 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.022, "delta_max": 0.001, "delta_perc_max": 0.221 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.022, "delta_max": 0.001, "delta_perc_max": 0.221 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.022, "delta_max": 0.001, "delta_perc_max": 0.221 }
+    ]
+  },
+  {
+    "symbol": "XEMUSDT",
+    "price": { "spot": 0.0339, "futures": 0.03381875, "delta": 0.0, "delta_perc": 0.243 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.236, "delta_max": 0.0, "delta_perc_max": 0.491 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.236, "delta_max": 0.0, "delta_perc_max": 0.491 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.236, "delta_max": 0.0, "delta_perc_max": 0.491 }
+    ]
+  },
+  {
+    "symbol": "COTIUSDT",
+    "price": { "spot": 0.074, "futures": 0.07390659, "delta": 0.0, "delta_perc": 0.149 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.142, "delta_max": 0.0, "delta_perc_max": 0.266 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.142, "delta_max": 0.0, "delta_perc_max": 0.266 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.142, "delta_max": 0.0, "delta_perc_max": 0.266 }
+    ]
+  },
+  {
+    "symbol": "CHRUSDT",
+    "price": { "spot": 0.1117, "futures": 0.1116, "delta": 0.0, "delta_perc": 0.09 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.111, "delta_max": 0.0, "delta_perc_max": 0.246 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.111, "delta_max": 0.0, "delta_perc_max": 0.246 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.111, "delta_max": 0.0, "delta_perc_max": 0.246 }
+    ]
+  },
+  {
+    "symbol": "MANAUSDT",
+    "price": { "spot": 0.3885, "futures": 0.38820987, "delta": 0.0, "delta_perc": 0.076 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.071, "delta_max": 0.0, "delta_perc_max": 0.103 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.071, "delta_max": 0.0, "delta_perc_max": 0.119 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.071, "delta_max": 0.0, "delta_perc_max": 0.119 }
+    ]
+  },
+  {
+    "symbol": "ALICEUSDT",
+    "price": { "spot": 1.235, "futures": 1.234, "delta": 0.001, "delta_perc": 0.081 },
+    "history": [
+      { "tf": "1h", "delta": 0.001, "delta_perc": 0.084, "delta_max": 0.003, "delta_perc_max": 0.205 },
+      { "tf": "24h", "delta": 0.001, "delta_perc": 0.084, "delta_max": 0.003, "delta_perc_max": 0.205 },
+      { "tf": "7d", "delta": 0.001, "delta_perc": 0.084, "delta_max": 0.003, "delta_perc_max": 0.205 }
+    ]
+  },
+  {
+    "symbol": "HBARUSDT",
+    "price": { "spot": 0.0485, "futures": 0.04848034, "delta": 0.0, "delta_perc": 0.043 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.054, "delta_max": 0.0, "delta_perc_max": 0.268 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.054, "delta_max": 0.0, "delta_perc_max": 0.268 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.054, "delta_max": 0.0, "delta_perc_max": 0.268 }
+    ]
+  },
+  {
+    "symbol": "ONEUSDT",
+    "price": { "spot": 0.01437, "futures": 0.01436, "delta": 0.0, "delta_perc": 0.07 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.075, "delta_max": 0.0, "delta_perc_max": 0.218 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.075, "delta_max": 0.0, "delta_perc_max": 0.218 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.075, "delta_max": 0.0, "delta_perc_max": 0.218 }
+    ]
+  },
+  {
+    "symbol": "LINAUSDT",
+    "price": { "spot": 0.00597, "futures": 0.00597, "delta": 0.0, "delta_perc": 0.0 },
+    "history": [
+      { "tf": "1h", "delta": -0.0, "delta_perc": -0.013, "delta_max": 0.0, "delta_perc_max": 0.377 },
+      { "tf": "24h", "delta": -0.0, "delta_perc": -0.013, "delta_max": 0.0, "delta_perc_max": 0.377 },
+      { "tf": "7d", "delta": -0.0, "delta_perc": -0.013, "delta_max": 0.0, "delta_perc_max": 0.377 }
+    ]
+  },
+  {
+    "symbol": "STMXUSDT",
+    "price": { "spot": 0.005194, "futures": 0.00519683, "delta": -0.0, "delta_perc": -0.054 },
+    "history": [
+      { "tf": "1h", "delta": -0.0, "delta_perc": -0.024, "delta_max": 0.0, "delta_perc_max": 0.199 },
+      { "tf": "24h", "delta": -0.0, "delta_perc": -0.024, "delta_max": 0.0, "delta_perc_max": 0.381 },
+      { "tf": "7d", "delta": -0.0, "delta_perc": -0.024, "delta_max": 0.0, "delta_perc_max": 0.381 }
+    ]
+  },
+  {
+    "symbol": "DENTUSDT",
+    "price": { "spot": 0.000689, "futures": 0.000687, "delta": 0.0, "delta_perc": 0.291 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.266, "delta_max": 0.0, "delta_perc_max": 0.33 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.266, "delta_max": 0.0, "delta_perc_max": 0.33 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.266, "delta_max": 0.0, "delta_perc_max": 0.33 }
+    ]
+  },
+  {
+    "symbol": "CELRUSDT",
+    "price": { "spot": 0.01177, "futures": 0.01177, "delta": 0.0, "delta_perc": 0.0 },
+    "history": [
+      { "tf": "1h", "delta": -0.0, "delta_perc": -0.022, "delta_max": 0.0, "delta_perc_max": 0.194 },
+      { "tf": "24h", "delta": -0.0, "delta_perc": -0.022, "delta_max": 0.0, "delta_perc_max": 0.194 },
+      { "tf": "7d", "delta": -0.0, "delta_perc": -0.022, "delta_max": 0.0, "delta_perc_max": 0.194 }
+    ]
+  },
+  {
+    "symbol": "HOTUSDT",
+    "price": { "spot": 0.001638, "futures": 0.00163649, "delta": 0.0, "delta_perc": 0.094 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.072, "delta_max": 0.0, "delta_perc_max": 0.249 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.072, "delta_max": 0.0, "delta_perc_max": 0.249 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.072, "delta_max": 0.0, "delta_perc_max": 0.249 }
+    ]
+  },
+  {
+    "symbol": "MTLUSDT",
+    "price": { "spot": 0.738, "futures": 0.73774166, "delta": 0.0, "delta_perc": 0.035 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.047, "delta_max": 0.003, "delta_perc_max": 0.357 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.047, "delta_max": 0.003, "delta_perc_max": 0.417 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.047, "delta_max": 0.003, "delta_perc_max": 0.417 }
+    ]
+  },
+  {
+    "symbol": "OGNUSDT",
+    "price": { "spot": 0.1025, "futures": 0.10247353, "delta": 0.0, "delta_perc": 0.027 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.041, "delta_max": 0.0, "delta_perc_max": 0.318 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.041, "delta_max": 0.0, "delta_perc_max": 0.318 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.041, "delta_max": 0.0, "delta_perc_max": 0.318 }
+    ]
+  },
+  {
+    "symbol": "NKNUSDT",
+    "price": { "spot": 0.0775, "futures": 0.07758074, "delta": -0.0, "delta_perc": -0.102 },
+    "history": [
+      { "tf": "1h", "delta": -0.0, "delta_perc": -0.048, "delta_max": 0.0, "delta_perc_max": 0.208 },
+      { "tf": "24h", "delta": -0.0, "delta_perc": -0.048, "delta_max": 0.0, "delta_perc_max": 0.208 },
+      { "tf": "7d", "delta": -0.0, "delta_perc": -0.048, "delta_max": 0.0, "delta_perc_max": 0.208 }
+    ]
+  },
+  {
+    "symbol": "DGBUSDT",
+    "price": { "spot": 0.00721, "futures": 0.00719141, "delta": 0.0, "delta_perc": 0.26 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.266, "delta_max": 0.0, "delta_perc_max": 0.325 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.266, "delta_max": 0.0, "delta_perc_max": 0.325 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.266, "delta_max": 0.0, "delta_perc_max": 0.325 }
+    ]
+  },
+  {
+    "symbol": "BAKEUSDT",
+    "price": { "spot": 0.1851, "futures": 0.18491814, "delta": 0.0, "delta_perc": 0.097 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.089, "delta_max": 0.0, "delta_perc_max": 0.269 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.089, "delta_max": 0.0, "delta_perc_max": 0.269 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.089, "delta_max": 0.0, "delta_perc_max": 0.269 }
+    ]
+  },
+  {
+    "symbol": "GTCUSDT",
+    "price": { "spot": 1.631, "futures": 1.63185687, "delta": -0.001, "delta_perc": -0.061 },
+    "history": [
+      { "tf": "1h", "delta": -0.0, "delta_perc": -0.022, "delta_max": 0.004, "delta_perc_max": 0.242 },
+      { "tf": "24h", "delta": -0.0, "delta_perc": -0.022, "delta_max": 0.004, "delta_perc_max": 0.242 },
+      { "tf": "7d", "delta": -0.0, "delta_perc": -0.022, "delta_max": 0.004, "delta_perc_max": 0.242 }
+    ]
+  },
+  {
+    "symbol": "IOTXUSDT",
+    "price": { "spot": 0.02426, "futures": 0.02423885, "delta": 0.0, "delta_perc": 0.089 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.113, "delta_max": 0.0, "delta_perc_max": 0.257 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.113, "delta_max": 0.0, "delta_perc_max": 0.257 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.113, "delta_max": 0.0, "delta_perc_max": 0.257 }
+    ]
+  },
+  {
+    "symbol": "AUDIOUSDT",
+    "price": { "spot": 0.1551, "futures": 0.1551, "delta": 0.0, "delta_perc": 0.0 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.034, "delta_max": 0.0, "delta_perc_max": 0.197 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.034, "delta_max": 0.0, "delta_perc_max": 0.197 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.034, "delta_max": 0.0, "delta_perc_max": 0.197 }
+    ]
+  },
+  {
+    "symbol": "C98USDT",
+    "price": { "spot": 0.2441, "futures": 0.2439464, "delta": 0.0, "delta_perc": 0.063 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.077, "delta_max": 0.0, "delta_perc_max": 0.164 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.077, "delta_max": 0.0, "delta_perc_max": 0.164 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.077, "delta_max": 0.0, "delta_perc_max": 0.164 }
+    ]
+  },
+  {
+    "symbol": "MASKUSDT",
+    "price": { "spot": 2.687, "futures": 2.68339154, "delta": 0.001, "delta_perc": 0.037 },
+    "history": [
+      { "tf": "1h", "delta": 0.001, "delta_perc": 0.052, "delta_max": 0.006, "delta_perc_max": 0.242 },
+      { "tf": "24h", "delta": 0.001, "delta_perc": 0.052, "delta_max": 0.006, "delta_perc_max": 0.242 },
+      { "tf": "7d", "delta": 0.001, "delta_perc": 0.052, "delta_max": 0.006, "delta_perc_max": 0.242 }
+    ]
+  },
+  {
+    "symbol": "ATAUSDT",
+    "price": { "spot": 0.106, "futures": 0.10610279, "delta": -0.0, "delta_perc": -0.095 },
+    "history": [
+      { "tf": "1h", "delta": -0.0, "delta_perc": -0.087, "delta_max": 0.0, "delta_perc_max": 0.227 },
+      { "tf": "24h", "delta": -0.0, "delta_perc": -0.087, "delta_max": 0.0, "delta_perc_max": 0.227 },
+      { "tf": "7d", "delta": -0.0, "delta_perc": -0.087, "delta_max": 0.0, "delta_perc_max": 0.227 }
+    ]
+  },
+  {
+    "symbol": "DYDXUSDT",
+    "price": { "spot": 1.952, "futures": 1.95010394, "delta": 0.002, "delta_perc": 0.1 },
+    "history": [
+      { "tf": "1h", "delta": 0.001, "delta_perc": 0.058, "delta_max": 0.002, "delta_perc_max": 0.111 },
+      { "tf": "24h", "delta": 0.001, "delta_perc": 0.058, "delta_max": 0.002, "delta_perc_max": 0.111 },
+      { "tf": "7d", "delta": 0.001, "delta_perc": 0.058, "delta_max": 0.002, "delta_perc_max": 0.111 }
+    ]
+  },
+  {
+    "symbol": "GALAUSDT",
+    "price": { "spot": 0.02518, "futures": 0.02519, "delta": 0.0, "delta_perc": 0.028 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.037, "delta_max": 0.0, "delta_perc_max": 0.164 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.037, "delta_max": 0.0, "delta_perc_max": 0.164 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.037, "delta_max": 0.0, "delta_perc_max": 0.164 }
+    ]
+  },
+  {
+    "symbol": "CELOUSDT",
+    "price": { "spot": 0.504, "futures": 0.504, "delta": 0.0, "delta_perc": 0.0 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.006, "delta_max": 0.001, "delta_perc_max": 0.251 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.006, "delta_max": 0.001, "delta_perc_max": 0.251 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.006, "delta_max": 0.001, "delta_perc_max": 0.251 }
+    ]
+  },
+  {
+    "symbol": "ARUSDT",
+    "price": { "spot": 9.12, "futures": 9.12238938, "delta": -0.009, "delta_perc": -0.096 },
+    "history": [
+      { "tf": "1h", "delta": -0.005, "delta_perc": -0.058, "delta_max": 0.014, "delta_perc_max": 0.147 },
+      { "tf": "24h", "delta": -0.005, "delta_perc": -0.058, "delta_max": 0.015, "delta_perc_max": 0.155 },
+      { "tf": "7d", "delta": -0.005, "delta_perc": -0.058, "delta_max": 0.015, "delta_perc_max": 0.155 }
+    ]
+  },
+  {
+    "symbol": "KLAYUSDT",
+    "price": { "spot": 0.1758, "futures": 0.17561345, "delta": 0.0, "delta_perc": 0.108 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.062, "delta_max": 0.0, "delta_perc_max": 0.171 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.062, "delta_max": 0.0, "delta_perc_max": 0.171 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.062, "delta_max": 0.0, "delta_perc_max": 0.171 }
+    ]
+  },
+  {
+    "symbol": "ARPAUSDT",
+    "price": { "spot": 0.02729, "futures": 0.02730556, "delta": -0.0, "delta_perc": -0.057 },
+    "history": [
+      { "tf": "1h", "delta": -0.0, "delta_perc": -0.047, "delta_max": 0.0, "delta_perc_max": 0.154 },
+      { "tf": "24h", "delta": -0.0, "delta_perc": -0.047, "delta_max": 0.0, "delta_perc_max": 0.154 },
+      { "tf": "7d", "delta": -0.0, "delta_perc": -0.047, "delta_max": 0.0, "delta_perc_max": 0.154 }
+    ]
+  },
+  {
+    "symbol": "CTSIUSDT",
+    "price": { "spot": 0.1076, "futures": 0.10734452, "delta": 0.0, "delta_perc": 0.237 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.157, "delta_max": 0.001, "delta_perc_max": 0.463 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.157, "delta_max": 0.001, "delta_perc_max": 0.463 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.157, "delta_max": 0.001, "delta_perc_max": 0.463 }
+    ]
+  },
+  {
+    "symbol": "LPTUSDT",
+    "price": { "spot": 7.39, "futures": 7.38502595, "delta": 0.005, "delta_perc": 0.069 },
+    "history": [
+      { "tf": "1h", "delta": 0.004, "delta_perc": 0.06, "delta_max": 0.026, "delta_perc_max": 0.356 },
+      { "tf": "24h", "delta": 0.004, "delta_perc": 0.06, "delta_max": 0.026, "delta_perc_max": 0.356 },
+      { "tf": "7d", "delta": 0.004, "delta_perc": 0.06, "delta_max": 0.026, "delta_perc_max": 0.356 }
+    ]
+  },
+  {
+    "symbol": "ENSUSDT",
+    "price": { "spot": 13.21, "futures": 13.20968589, "delta": 0.009, "delta_perc": 0.068 },
+    "history": [
+      { "tf": "1h", "delta": 0.009, "delta_perc": 0.069, "delta_max": 0.02, "delta_perc_max": 0.154 },
+      { "tf": "24h", "delta": 0.009, "delta_perc": 0.069, "delta_max": 0.02, "delta_perc_max": 0.154 },
+      { "tf": "7d", "delta": 0.009, "delta_perc": 0.069, "delta_max": 0.02, "delta_perc_max": 0.154 }
+    ]
+  },
+  {
+    "symbol": "PEOPLEUSDT",
+    "price": { "spot": 0.02343, "futures": 0.02343275, "delta": -0.0, "delta_perc": -0.011 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.049, "delta_max": 0.0, "delta_perc_max": 0.131 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.049, "delta_max": 0.0, "delta_perc_max": 0.131 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.049, "delta_max": 0.0, "delta_perc_max": 0.131 }
+    ]
+  },
+  {
+    "symbol": "ANTUSDT",
+    "price": { "spot": 1.87, "futures": 1.868, "delta": 0.002, "delta_perc": 0.107 },
+    "history": [
+      { "tf": "1h", "delta": 0.002, "delta_perc": 0.1, "delta_max": 0.003, "delta_perc_max": 0.181 },
+      { "tf": "24h", "delta": 0.002, "delta_perc": 0.1, "delta_max": 0.003, "delta_perc_max": 0.181 },
+      { "tf": "7d", "delta": 0.002, "delta_perc": 0.1, "delta_max": 0.003, "delta_perc_max": 0.181 }
+    ]
+  },
+  {
+    "symbol": "ROSEUSDT",
+    "price": { "spot": 0.04636, "futures": 0.04634152, "delta": 0.0, "delta_perc": 0.04 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.054, "delta_max": 0.0, "delta_perc_max": 0.254 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.054, "delta_max": 0.0, "delta_perc_max": 0.254 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.054, "delta_max": 0.0, "delta_perc_max": 0.254 }
+    ]
+  },
+  {
+    "symbol": "DUSKUSDT",
+    "price": { "spot": 0.0893, "futures": 0.08922, "delta": 0.0, "delta_perc": 0.09 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.085, "delta_max": 0.0, "delta_perc_max": 0.246 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.085, "delta_max": 0.0, "delta_perc_max": 0.246 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.085, "delta_max": 0.0, "delta_perc_max": 0.246 }
+    ]
+  },
+  {
+    "symbol": "FLOWUSDT",
+    "price": { "spot": 1.138, "futures": 1.13794387, "delta": 0.0, "delta_perc": 0.006 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.014, "delta_max": 0.002, "delta_perc_max": 0.176 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.014, "delta_max": 0.002, "delta_perc_max": 0.176 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.014, "delta_max": 0.002, "delta_perc_max": 0.176 }
+    ]
+  },
+  {
+    "symbol": "IMXUSDT",
+    "price": { "spot": 0.438, "futures": 0.43834623, "delta": -0.0, "delta_perc": -0.079 },
+    "history": [
+      { "tf": "1h", "delta": -0.0, "delta_perc": -0.064, "delta_max": 0.001, "delta_perc_max": 0.299 },
+      { "tf": "24h", "delta": -0.0, "delta_perc": -0.064, "delta_max": 0.001, "delta_perc_max": 0.299 },
+      { "tf": "7d", "delta": -0.0, "delta_perc": -0.064, "delta_max": 0.001, "delta_perc_max": 0.299 }
+    ]
+  },
+  {
+    "symbol": "API3USDT",
+    "price": { "spot": 1.452, "futures": 1.45127614, "delta": 0.001, "delta_perc": 0.05 },
+    "history": [
+      { "tf": "1h", "delta": 0.001, "delta_perc": 0.049, "delta_max": 0.006, "delta_perc_max": 0.41 },
+      { "tf": "24h", "delta": 0.001, "delta_perc": 0.049, "delta_max": 0.006, "delta_perc_max": 0.41 },
+      { "tf": "7d", "delta": 0.001, "delta_perc": 0.049, "delta_max": 0.006, "delta_perc_max": 0.41 }
+    ]
+  },
+  {
+    "symbol": "GMTUSDT",
+    "price": { "spot": 0.3842, "futures": 0.38402114, "delta": 0.0, "delta_perc": 0.047 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.046, "delta_max": 0.001, "delta_perc_max": 0.143 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.046, "delta_max": 0.001, "delta_perc_max": 0.143 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.046, "delta_max": 0.001, "delta_perc_max": 0.143 }
+    ]
+  },
+  {
+    "symbol": "APEUSDT",
+    "price": { "spot": 3.361, "futures": 3.3590632, "delta": 0.002, "delta_perc": 0.06 },
+    "history": [
+      { "tf": "1h", "delta": 0.002, "delta_perc": 0.065, "delta_max": 0.004, "delta_perc_max": 0.118 },
+      { "tf": "24h", "delta": 0.002, "delta_perc": 0.065, "delta_max": 0.004, "delta_perc_max": 0.118 },
+      { "tf": "7d", "delta": 0.002, "delta_perc": 0.065, "delta_max": 0.004, "delta_perc_max": 0.118 }
+    ]
+  },
+  {
+    "symbol": "BNXUSDT",
+    "price": { "spot": 172.9, "futures": 172.68, "delta": 0.194, "delta_perc": 0.112 },
+    "history": [
+      { "tf": "1h", "delta": 0.273, "delta_perc": 0.158, "delta_max": 1.83, "delta_perc_max": 1.069 },
+      { "tf": "24h", "delta": 0.273, "delta_perc": 0.158, "delta_max": 1.83, "delta_perc_max": 1.069 },
+      { "tf": "7d", "delta": 0.273, "delta_perc": 0.158, "delta_max": 1.83, "delta_perc_max": 1.069 }
+    ]
+  },
+  {
+    "symbol": "WOOUSDT",
+    "price": { "spot": 0.1155, "futures": 0.11543917, "delta": 0.0, "delta_perc": 0.052 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.063, "delta_max": 0.0, "delta_perc_max": 0.167 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.063, "delta_max": 0.0, "delta_perc_max": 0.189 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.063, "delta_max": 0.0, "delta_perc_max": 0.189 }
+    ]
+  },
+  {
+    "symbol": "JASMYUSDT",
+    "price": { "spot": 0.003864, "futures": 0.00386924, "delta": -0.0, "delta_perc": -0.145 },
+    "history": [
+      { "tf": "1h", "delta": -0.0, "delta_perc": -0.217, "delta_max": 0.0, "delta_perc_max": 0.313 },
+      { "tf": "24h", "delta": -0.0, "delta_perc": -0.217, "delta_max": 0.0, "delta_perc_max": 0.313 },
+      { "tf": "7d", "delta": -0.0, "delta_perc": -0.217, "delta_max": 0.0, "delta_perc_max": 0.313 }
+    ]
+  },
+  {
+    "symbol": "DARUSDT",
+    "price": { "spot": 0.13307, "futures": 0.133005, "delta": 0.0, "delta_perc": 0.047 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.043, "delta_max": 0.0, "delta_perc_max": 0.215 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.043, "delta_max": 0.0, "delta_perc_max": 0.215 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.043, "delta_max": 0.0, "delta_perc_max": 0.215 }
+    ]
+  },
+  {
+    "symbol": "GALUSDT",
+    "price": { "spot": 1.459, "futures": 1.45776847, "delta": 0.001, "delta_perc": 0.085 },
+    "history": [
+      { "tf": "1h", "delta": 0.001, "delta_perc": 0.086, "delta_max": 0.002, "delta_perc_max": 0.168 },
+      { "tf": "24h", "delta": 0.001, "delta_perc": 0.086, "delta_max": 0.002, "delta_perc_max": 0.168 },
+      { "tf": "7d", "delta": 0.001, "delta_perc": 0.086, "delta_max": 0.002, "delta_perc_max": 0.168 }
+    ]
+  },
+  {
+    "symbol": "OPUSDT",
+    "price": { "spot": 0.941, "futures": 0.9407, "delta": 0.001, "delta_perc": 0.098 },
+    "history": [
+      { "tf": "1h", "delta": 0.001, "delta_perc": 0.06, "delta_max": 0.002, "delta_perc_max": 0.189 },
+      { "tf": "24h", "delta": 0.001, "delta_perc": 0.06, "delta_max": 0.002, "delta_perc_max": 0.189 },
+      { "tf": "7d", "delta": 0.001, "delta_perc": 0.06, "delta_max": 0.002, "delta_perc_max": 0.189 }
+    ]
+  },
+  {
+    "symbol": "INJUSDT",
+    "price": { "spot": 1.645, "futures": 1.64388318, "delta": 0.001, "delta_perc": 0.07 },
+    "history": [
+      { "tf": "1h", "delta": 0.001, "delta_perc": 0.059, "delta_max": 0.004, "delta_perc_max": 0.245 },
+      { "tf": "24h", "delta": 0.001, "delta_perc": 0.059, "delta_max": 0.004, "delta_perc_max": 0.245 },
+      { "tf": "7d", "delta": 0.001, "delta_perc": 0.059, "delta_max": 0.004, "delta_perc_max": 0.245 }
+    ]
+  },
+  {
+    "symbol": "STGUSDT",
+    "price": { "spot": 0.4316, "futures": 0.43221974, "delta": 0.0, "delta_perc": 0.11 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.088, "delta_max": 0.001, "delta_perc_max": 0.183 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.088, "delta_max": 0.001, "delta_perc_max": 0.183 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.088, "delta_max": 0.001, "delta_perc_max": 0.183 }
+    ]
+  },
+  {
+    "symbol": "SPELLUSDT",
+    "price": { "spot": 0.0006366, "futures": 0.0006358, "delta": 0.0, "delta_perc": 0.126 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.095, "delta_max": 0.0, "delta_perc_max": 0.267 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.095, "delta_max": 0.0, "delta_perc_max": 0.267 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.095, "delta_max": 0.0, "delta_perc_max": 0.267 }
+    ]
+  },
+  {
+    "symbol": "LDOUSDT",
+    "price": { "spot": 1.132, "futures": 1.1317, "delta": 0.0, "delta_perc": 0.027 },
+    "history": [
+      { "tf": "1h", "delta": 0.0, "delta_perc": 0.04, "delta_max": 0.002, "delta_perc_max": 0.176 },
+      { "tf": "24h", "delta": 0.0, "delta_perc": 0.04, "delta_max": 0.002, "delta_perc_max": 0.176 },
+      { "tf": "7d", "delta": 0.0, "delta_perc": 0.04, "delta_max": 0.002, "delta_perc_max": 0.176 }
+    ]
+  },
+  {
+    "symbol": "CVXUSDT",
+    "price": { "spot": 4.307, "futures": 4.30422758, "delta": 0.003, "delta_perc": 0.065 },
+    "history": [
+      { "tf": "1h", "delta": 0.003, "delta_perc": 0.064, "delta_max": 0.065, "delta_perc_max": 1.478 },
+      { "tf": "24h", "delta": 0.003, "delta_perc": 0.064, "delta_max": 0.065, "delta_perc_max": 1.478 },
+      { "tf": "7d", "delta": 0.003, "delta_perc": 0.064, "delta_max": 0.065, "delta_perc_max": 1.478 }
+    ]
+  },
+  {
+    "symbol": "ICPUSDT",
+    "price": { "spot": 3.879, "futures": 3.87711679, "delta": 0.002, "delta_perc": 0.048 },
+    "history": [
+      { "tf": "1h", "delta": 0.002, "delta_perc": 0.055, "delta_max": 0.006, "delta_perc_max": 0.143 },
+      { "tf": "24h", "delta": 0.002, "delta_perc": 0.055, "delta_max": 0.006, "delta_perc_max": 0.143 },
+      { "tf": "7d", "delta": 0.002, "delta_perc": 0.055, "delta_max": 0.006, "delta_perc_max": 0.143 }
+    ]
+  },
+  {
+    "symbol": "APTUSDT",
+    "price": { "spot": 4.3218, "futures": 4.31949568, "delta": 0.003, "delta_perc": 0.065 },
+    "history": [
+      { "tf": "1h", "delta": 0.003, "delta_perc": 0.059, "delta_max": 0.005, "delta_perc_max": 0.113 },
+      { "tf": "24h", "delta": 0.003, "delta_perc": 0.059, "delta_max": 0.005, "delta_perc_max": 0.116 },
+      { "tf": "7d", "delta": 0.003, "delta_perc": 0.059, "delta_max": 0.005, "delta_perc_max": 0.116 }
+    ]
+  },
+  {
+    "symbol": "QNTUSDT",
+    "price": { "spot": 112.4, "futures": 112.31526608, "delta": 0.086, "delta_perc": 0.076 },
+    "history": [
+      { "tf": "1h", "delta": 0.116, "delta_perc": 0.103, "delta_max": 0.328, "delta_perc_max": 0.287 },
+      { "tf": "24h", "delta": 0.116, "delta_perc": 0.103, "delta_max": 0.328, "delta_perc_max": 0.287 },
+      { "tf": "7d", "delta": 0.116, "delta_perc": 0.103, "delta_max": 0.328, "delta_perc_max": 0.287 }
+    ]
+  }
+]
