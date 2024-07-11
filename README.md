@@ -1,4 +1,4 @@
-# Trading Core Infra
+# Trading Core Frontend
 - a part of dasein-trainding-systems
 - contains some frontend implementation(read only  version)
 - was properly used for many experiments, and real-time working trading systems
